@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import Sensor from './Sensor.js';
+import Sensor from '../Sensor.js';
 export default {
   props: {
     index: Number,

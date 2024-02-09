@@ -17,8 +17,8 @@
 </template>
 
 <script>
-import sensorComp from "./sensor.vue";
-import AddSensor from "./AddSensor.vue";
+import sensorComp from "./components/sensor.vue";
+import AddSensor from "./components/AddSensor.vue";
 import AllSensor from "./event.json";
 import Sensor from "./Sensor.js";
 export default {
